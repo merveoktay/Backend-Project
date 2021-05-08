@@ -3,7 +3,7 @@
 ###############################################################################
 * text=auto
 *.csharp linguist-detectable=true
-*.tsql linguist-detectable=false
+*.sql linguist-detectable=false
 *.java linguist-detectable=false
 *.js linguist-detectable=false
 *.html linguist-detectable=false
